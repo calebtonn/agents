@@ -11,3 +11,7 @@ __pycache__
 .eggs/
 *.egg-info/
 /.vs
+
+# Secureli-generated files (do not modify):
+.secureli
+# End Secureli-generated files
